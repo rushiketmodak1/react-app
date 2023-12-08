@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.f147e465.css",
+    "main.js": "/react-app/static/js/main.d63cfc51.js",
+    "static/media/AddingTextfield.mp4": "/react-app/static/media/AddingTextfield.f3c6066f3bc85932e933.mp4",
+    "index.html": "/react-app/index.html",
+    "main.f147e465.css.map": "/react-app/static/css/main.f147e465.css.map",
+    "main.d63cfc51.js.map": "/react-app/static/js/main.d63cfc51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f147e465.css",
+    "static/js/main.d63cfc51.js"
+  ]
+}
